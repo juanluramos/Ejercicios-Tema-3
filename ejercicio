@@ -2,7 +2,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        System.out.println("RESULTADO PRIMERA PARTE:");
+        System.out.println("DANIEL CANALS ES GAY:");
 
         int resultado;
         resultado = suma3(3, 4, 5);
